@@ -6,9 +6,9 @@ color:
   saturation: 0.6792454952374101
   rhythmicContrast: 0.8065668877679855
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#0D0101'
+    - '#F0EBE8'
+    - '#D4C7BE'
+    - '#AB9685'
+    - '#573D2C'
 name: TammeMinistries
